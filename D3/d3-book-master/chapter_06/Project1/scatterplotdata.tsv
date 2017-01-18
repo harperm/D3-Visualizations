@@ -1,0 +1,61 @@
+week	weight	species
+1	2	lab
+2	4	lab
+3	6	lab
+4	8	lab
+5	10	lab
+6	12	lab
+7	14	lab
+8	16	lab
+9	18	lab
+10	20	lab
+11	22	lab
+12	24	lab
+1	10	bulldog
+2	12	bulldog
+3	14	bulldog
+4	16	bulldog
+5	18	bulldog
+6	20	bulldog
+7	22	bulldog
+8	24	bulldog
+9	26	bulldog
+10	28	bulldog
+11	30	bulldog
+12	32	bulldog
+1	5	basset hound
+2	7	basset hound
+3	9	basset hound
+4	11	basset hound
+5	13	basset hound
+6	15	basset hound
+7	17	basset hound
+8	19	basset hound
+9	21	basset hound
+10	22	basset hound
+11	24	basset hound
+12	26	basset hound
+1	.5	chihuahua
+2	.6875	chihuahua
+3	.875	chihuahua
+4	1.0625	chihuahua
+5	1.21875	chihuahua
+6	1.375	chihuahua
+7	1.53125	chihuahua
+8	1.6875	chihuahua
+9	1.8125	chihuahua
+10	1.9375	chihuahua
+11	2.125	chihuahua
+12	2.3125	chihuahua
+1	10	dobermann
+2	11	dobermann
+3	14	dobermann
+4	15	dobermann
+5	17	dobermann
+6	20	dobermann
+7	23	dobermann
+8	25	dobermann
+9	27	dobermann
+10	28	dobermann
+11	32	dobermann
+12	36	dobermann
